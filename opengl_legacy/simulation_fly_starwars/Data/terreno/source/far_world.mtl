@@ -1,0 +1,16 @@
+# Blender MTL File: 'far_world.blend.blend'
+# Material Count: 1
+
+newmtl mars_terrain
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd terrain/terrain_mars_Color.png
+map_Bump -bm 0.200000 terrain/terrain_mars_Normal.png
+map_Ke terrain/terrain_mars_LM.png
+map_Ks terrain/terrain_mars_green_reflect.png

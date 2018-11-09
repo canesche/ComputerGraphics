@@ -1,0 +1,444 @@
+newmtl overheatedmetal0
+Ka 0 0 0
+Ns 1
+Ks 0.592157 0.635294 1
+Kd 0.695167 0.725616 0.757856
+map_Kd overheatedmetal0.jpg
+newmtl overheatedmetal1
+Ka 0 0 0
+Ns 1
+Ks 0.592157 0.635294 1
+Kd 0.695167 0.725616 0.757856
+map_Kd overheatedmetal1_1.jpg
+newmtl overheatedmetal2
+Ka 0 0 0
+Ns 1
+Ks 0.592157 0.635294 1
+Kd 0.695167 0.725616 0.757856
+map_Kd overheatedmetal2_2.jpg
+newmtl overheatedmetal3
+Ka 0 0 0
+Ns 1
+Ks 0.592157 0.635294 1
+Kd 0.695167 0.725616 0.757856
+map_Kd overheatedmetal3_3.jpg
+newmtl overheatedmetal4
+Ka 0 0 0
+Ns 1
+Ks 0.592157 0.635294 1
+Kd 0.695167 0.725616 0.757856
+map_Kd overheatedmetal4_4.jpg
+newmtl overheatedmetal5
+Ka 0 0 0
+Ns 1
+Ks 0.592157 0.635294 1
+Kd 0.695167 0.725616 0.757856
+map_Kd overheatedmetal5_5.jpg
+newmtl Polished_silve0
+Ka 0 0 0
+Ns 36.5982
+Ks 1 0.788235 0.635294
+Kd 0.749005 0.749005 0.749005
+map_Kd Polished_silve0_6.jpg
+newmtl Polished_silve1
+Ka 0 0 0
+Ns 36.5982
+Ks 1 0.788235 0.635294
+Kd 0.749005 0.749005 0.749005
+map_Kd Polished_silve1_7.jpg
+newmtl Polished_silve2
+Ka 0 0 0
+Ns 36.5982
+Ks 1 0.788235 0.635294
+Kd 0.749005 0.749005 0.749005
+map_Kd Polished_silve2_8.jpg
+newmtl Polished_silve3
+Ka 0 0 0
+Ns 36.5982
+Ks 1 0.788235 0.635294
+Kd 0.749005 0.749005 0.749005
+map_Kd Polished_silve3_9.jpg
+newmtl Polished_silve4
+Ka 0 0 0
+Ns 36.5982
+Ks 1 0.788235 0.635294
+Kd 0.749005 0.749005 0.749005
+map_Kd Polished_silve4_10.jpg
+newmtl Polished_silve5
+Ka 0 0 0
+Ns 36.5982
+Ks 1 0.788235 0.635294
+Kd 0.749005 0.749005 0.749005
+map_Kd Polished_silve5_11.jpg
+newmtl Polished_silve6
+Ka 0 0 0
+Ns 36.5982
+Ks 1 0.788235 0.635294
+Kd 0.749005 0.749005 0.749005
+map_Kd Polished_silve6_12.jpg
+newmtl Polished_silve7
+Ka 0 0 0
+Ns 36.5982
+Ks 1 0.788235 0.635294
+Kd 0.749005 0.749005 0.749005
+map_Kd Polished_silve7_13.jpg
+newmtl Polished_silve8
+Ka 0 0 0
+Ns 36.5982
+Ks 1 0.788235 0.635294
+Kd 0.749005 0.749005 0.749005
+map_Kd Polished_silve8_14.jpg
+newmtl Polished_silve9
+Ka 0 0 0
+Ns 36.5982
+Ks 1 0.788235 0.635294
+Kd 0.749005 0.749005 0.749005
+map_Kd Polished_silve9_15.jpg
+newmtl Polished_silve10
+Ka 0 0 0
+Ns 36.5982
+Ks 1 0.788235 0.635294
+Kd 0.749005 0.749005 0.749005
+map_Kd Polished_silve10_16.jpg
+newmtl Egg_shell0
+Ka 0 0 0
+Ns 2.31637
+Ks 1 0.780392 0.717647
+Kd 0.886577 0.727726 0.344039
+map_Kd Egg_shell0_17.jpg
+newmtl Egg_shell1
+Ka 0 0 0
+Ns 2.31637
+Ks 1 0.780392 0.717647
+Kd 0.886577 0.727726 0.344039
+map_Kd Egg_shell1_18.jpg
+newmtl Polished_silve11
+Ka 0 0 0
+Ns 36.5982
+Ks 1 0.788235 0.635294
+Kd 0.749005 0.749005 0.749005
+map_Kd Polished_silve11_19.jpg
+newmtl Stained_bronze0
+Ka 0 0 0
+Ns 27.1126
+Ks 0.443137 1 0.443137
+Kd 0.409793 0.271394 0.131284
+map_Kd Stained_bronze0_20.jpg
+newmtl Stained_bronze1
+Ka 0 0 0
+Ns 27.1126
+Ks 0.443137 1 0.443137
+Kd 0.409793 0.271394 0.131284
+map_Kd Stained_bronze1_21.jpg
+newmtl Egg_shell2
+Ka 0 0 0
+Ns 2.31637
+Ks 1 0.780392 0.717647
+Kd 0.886577 0.727726 0.344039
+map_Kd Egg_shell2_22.jpg
+newmtl Egg_shell3
+Ka 0 0 0
+Ns 2.31637
+Ks 1 0.780392 0.717647
+Kd 0.886577 0.727726 0.344039
+map_Kd Egg_shell3_23.jpg
+newmtl Egg_shell4
+Ka 0 0 0
+Ns 2.31637
+Ks 1 0.780392 0.717647
+Kd 0.886577 0.727726 0.344039
+map_Kd Egg_shell4_24.jpg
+newmtl Egg_shell5
+Ka 0 0 0
+Ns 2.31637
+Ks 1 0.780392 0.717647
+Kd 0.886577 0.727726 0.344039
+map_Kd Egg_shell5_25.jpg
+newmtl Egg_shell6
+Ka 0 0 0
+Ns 2.31637
+Ks 1 0.780392 0.717647
+Kd 0.886577 0.727726 0.344039
+map_Kd Egg_shell6_26.jpg
+newmtl Polished_silve12
+Ka 0 0 0
+Ns 36.5982
+Ks 1 0.788235 0.635294
+Kd 0.749005 0.749005 0.749005
+map_Kd Polished_silve12_27.jpg
+newmtl Egg_shell7
+Ka 0 0 0
+Ns 2.31637
+Ks 1 0.780392 0.717647
+Kd 0.886577 0.727726 0.344039
+map_Kd Egg_shell7_28.jpg
+newmtl Polished_silve13
+Ka 0 0 0
+Ns 36.5982
+Ks 1 0.788235 0.635294
+Kd 0.749005 0.749005 0.749005
+map_Kd Polished_silve13_29.jpg
+newmtl Egg_shell8
+Ka 0 0 0
+Ns 2.31637
+Ks 1 0.780392 0.717647
+Kd 0.886577 0.727726 0.344039
+map_Kd Egg_shell8_30.jpg
+newmtl Polished_silve14
+Ka 0 0 0
+Ns 36.5982
+Ks 1 0.788235 0.635294
+Kd 0.749005 0.749005 0.749005
+map_Kd Polished_silve14_31.jpg
+newmtl Egg_shell9
+Ka 0 0 0
+Ns 2.31637
+Ks 1 0.780392 0.717647
+Kd 0.886577 0.727726 0.344039
+map_Kd Egg_shell9_32.jpg
+newmtl Polished_silve15
+Ka 0 0 0
+Ns 36.5982
+Ks 1 0.788235 0.635294
+Kd 0.749005 0.749005 0.749005
+map_Kd Polished_silve15_33.jpg
+newmtl Egg_shell10
+Ka 0 0 0
+Ns 2.31637
+Ks 1 0.780392 0.717647
+Kd 0.886577 0.727726 0.344039
+map_Kd Egg_shell10_34.jpg
+newmtl Polished_silve16
+Ka 0 0 0
+Ns 36.5982
+Ks 1 0.788235 0.635294
+Kd 0.749005 0.749005 0.749005
+map_Kd Polished_silve16_35.jpg
+newmtl Egg_shell11
+Ka 0 0 0
+Ns 2.31637
+Ks 1 0.780392 0.717647
+Kd 0.886577 0.727726 0.344039
+map_Kd Egg_shell11_36.jpg
+newmtl Polished_silve17
+Ka 0 0 0
+Ns 36.5982
+Ks 1 0.788235 0.635294
+Kd 0.749005 0.749005 0.749005
+map_Kd Polished_silve17_37.jpg
+newmtl Polished_silve18
+Ka 0 0 0
+Ns 36.5982
+Ks 1 0.788235 0.635294
+Kd 0.749005 0.749005 0.749005
+map_Kd Polished_silve18_38.jpg
+newmtl Polished_silve19
+Ka 0 0 0
+Ns 36.5982
+Ks 1 0.788235 0.635294
+Kd 0.749005 0.749005 0.749005
+map_Kd Polished_silve19_39.jpg
+newmtl Polished_silve20
+Ka 0 0 0
+Ns 36.5982
+Ks 1 0.788235 0.635294
+Kd 0.749005 0.749005 0.749005
+map_Kd Polished_silve20_40.jpg
+newmtl Polished_silve21
+Ka 0 0 0
+Ns 36.5982
+Ks 1 0.788235 0.635294
+Kd 0.749005 0.749005 0.749005
+map_Kd Polished_silve21_41.jpg
+newmtl Egg_shell12
+Ka 0 0 0
+Ns 2.31637
+Ks 1 0.780392 0.717647
+Kd 0.886577 0.727726 0.344039
+map_Kd Egg_shell12_42.jpg
+newmtl Egg_shell13
+Ka 0 0 0
+Ns 2.31637
+Ks 1 0.780392 0.717647
+Kd 0.886577 0.727726 0.344039
+map_Kd Egg_shell13_43.jpg
+newmtl Egg_shell14
+Ka 0 0 0
+Ns 2.31637
+Ks 1 0.780392 0.717647
+Kd 0.886577 0.727726 0.344039
+map_Kd Egg_shell14_44.jpg
+newmtl Egg_shell15
+Ka 0 0 0
+Ns 2.31637
+Ks 1 0.780392 0.717647
+Kd 0.886577 0.727726 0.344039
+map_Kd Egg_shell15_45.jpg
+newmtl Polished_silve22
+Ka 0 0 0
+Ns 36.5982
+Ks 1 0.788235 0.635294
+Kd 0.749005 0.749005 0.749005
+map_Kd Polished_silve22_46.jpg
+newmtl Polished_silve23
+Ka 0 0 0
+Ns 36.5982
+Ks 1 0.788235 0.635294
+Kd 0.749005 0.749005 0.749005
+map_Kd Polished_silve23_47.jpg
+newmtl Egg_shell16
+Ka 0 0 0
+Ns 2.31637
+Ks 1 0.780392 0.717647
+Kd 0.886577 0.727726 0.344039
+map_Kd Egg_shell16_48.jpg
+newmtl Egg_shell17
+Ka 0 0 0
+Ns 2.31637
+Ks 1 0.780392 0.717647
+Kd 0.886577 0.727726 0.344039
+map_Kd Egg_shell17_49.jpg
+newmtl Yellow_glass0
+Ka 0 0 0
+Ns 34.4669
+Ks 1 1 1
+Kd 1 0.901961 0.0156863
+map_Kd Yellow_glass0_50.jpg
+newmtl Yellow_glass1
+Ka 0 0 0
+Ns 34.4669
+Ks 1 1 1
+Kd 1 0.901961 0.0156863
+map_Kd Yellow_glass1_51.jpg
+newmtl Yellow_glass2
+Ka 0 0 0
+Ns 34.4669
+Ks 1 1 1
+Kd 1 0.901961 0.0156863
+map_Kd Yellow_glass2_52.jpg
+newmtl Yellow_glass3
+Ka 0 0 0
+Ns 34.4669
+Ks 1 1 1
+Kd 1 0.901961 0.0156863
+map_Kd Yellow_glass3_53.jpg
+newmtl Yellow_glass4
+Ka 0 0 0
+Ns 34.4669
+Ks 1 1 1
+Kd 1 0.901961 0.0156863
+map_Kd Yellow_glass4_54.jpg
+newmtl Yellow_glass5
+Ka 0 0 0
+Ns 34.4669
+Ks 1 1 1
+Kd 1 0.901961 0.0156863
+map_Kd Yellow_glass5_55.jpg
+newmtl Egg_shell18
+Ka 0 0 0
+Ns 2.31637
+Ks 1 0.780392 0.717647
+Kd 0.886577 0.727726 0.344039
+map_Kd Egg_shell18_56.jpg
+newmtl Egg_shell19
+Ka 0 0 0
+Ns 2.31637
+Ks 1 0.780392 0.717647
+Kd 0.886577 0.727726 0.344039
+map_Kd Egg_shell19_57.jpg
+newmtl Egg_shell20
+Ka 0 0 0
+Ns 2.31637
+Ks 1 0.780392 0.717647
+Kd 0.886577 0.727726 0.344039
+map_Kd Egg_shell20_58.jpg
+newmtl Polished_silve24
+Ka 0 0 0
+Ns 36.5982
+Ks 1 0.788235 0.635294
+Kd 0.749005 0.749005 0.749005
+map_Kd Polished_silve24_59.jpg
+newmtl Egg_shell21
+Ka 0 0 0
+Ns 2.31637
+Ks 1 0.780392 0.717647
+Kd 0.886577 0.727726 0.344039
+map_Kd Egg_shell21_60.jpg
+newmtl Polished_silve25
+Ka 0 0 0
+Ns 36.5982
+Ks 1 0.788235 0.635294
+Kd 0.749005 0.749005 0.749005
+map_Kd Polished_silve25_61.jpg
+newmtl Egg_shell22
+Ka 0 0 0
+Ns 2.31637
+Ks 1 0.780392 0.717647
+Kd 0.886577 0.727726 0.344039
+map_Kd Egg_shell22_62.jpg
+newmtl Polished_silve26
+Ka 0 0 0
+Ns 36.5982
+Ks 1 0.788235 0.635294
+Kd 0.749005 0.749005 0.749005
+map_Kd Polished_silve26_63.jpg
+newmtl Egg_shell23
+Ka 0 0 0
+Ns 2.31637
+Ks 1 0.780392 0.717647
+Kd 0.886577 0.727726 0.344039
+map_Kd Egg_shell23_64.jpg
+newmtl Egg_shell24
+Ka 0 0 0
+Ns 2.31637
+Ks 1 0.780392 0.717647
+Kd 0.886577 0.727726 0.344039
+map_Kd Egg_shell24_65.jpg
+newmtl Egg_shell25
+Ka 0 0 0
+Ns 2.31637
+Ks 1 0.780392 0.717647
+Kd 0.886577 0.727726 0.344039
+map_Kd Egg_shell25_66.jpg
+newmtl Stained_bronze2
+Ka 0 0 0
+Ns 27.1126
+Ks 0.443137 1 0.443137
+Kd 0.409793 0.271394 0.131284
+map_Kd Stained_bronze2_67.jpg
+newmtl Stained_bronze3
+Ka 0 0 0
+Ns 27.1126
+Ks 0.443137 1 0.443137
+Kd 0.409793 0.271394 0.131284
+map_Kd Stained_bronze3_68.jpg
+newmtl Stained_bronze4
+Ka 0 0 0
+Ns 27.1126
+Ks 0.443137 1 0.443137
+Kd 0.409793 0.271394 0.131284
+map_Kd Stained_bronze4_69.jpg
+newmtl Egg_shell26
+Ka 0 0 0
+Ns 2.31637
+Ks 1 0.780392 0.717647
+Kd 0.886577 0.727726 0.344039
+map_Kd Egg_shell26_70.jpg
+newmtl Polished_silve27
+Ka 0 0 0
+Ns 36.5982
+Ks 1 0.788235 0.635294
+Kd 0.749005 0.749005 0.749005
+map_Kd Polished_silve27_71.jpg
+newmtl Egg_shell27
+Ka 0 0 0
+Ns 2.31637
+Ks 1 0.780392 0.717647
+Kd 0.886577 0.727726 0.344039
+map_Kd Egg_shell27_72.jpg
+newmtl Polished_silve28
+Ka 0 0 0
+Ns 36.5982
+Ks 1 0.788235 0.635294
+Kd 0.749005 0.749005 0.749005
+map_Kd Polished_silve28_73.jpg

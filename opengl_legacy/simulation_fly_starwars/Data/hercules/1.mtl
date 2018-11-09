@@ -1,0 +1,23 @@
+# Blender MTL File: 'None'
+# Material Count: 4
+
+
+newmtl Main
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+map_Bump Main Body.tga
+map_Kd Main Body.tga
+
+newmtl Material.001
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+map_Bump Main Body 2.tga
+map_Kd Main Body 2.tga
